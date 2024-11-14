@@ -1,0 +1,26 @@
+html, body {
+    height: 100vh;
+}
+.event-details {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+.ticket-types {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+.ticket-type {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.ticket-type h4 {
+    margin-bottom: 10px;
+}
+.ticket-type p {
+    margin-bottom: 10px;
+}
